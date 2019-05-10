@@ -20,7 +20,7 @@ server:
 
 logging:
   level:
-    com.yeafel.dataobject.mapper: trace
+    cn.caoler.dataobject.mapper: trace
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
